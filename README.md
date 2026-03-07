@@ -141,16 +141,6 @@ Explorando ferramentas modernas que permitem **acelerar o desenvolvimento de apl
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorRossan0&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRossan0&layout=compact&theme=dracula"/>
-</p>
-
-
----
-
 # 🌎 Onde me encontrar
 
 💼 **LinkedIn**  
