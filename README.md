@@ -1,12 +1,18 @@
 # 👨‍💻 Victor Rossano
 
+![Python](https://img.shields.io/badge/Python-Backend-blue)
+![Laravel](https://img.shields.io/badge/Laravel-PHP-red)
+![AI](https://img.shields.io/badge/AI-Automation-green)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E)
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+
 Backend Developer | Python • Laravel • APIs • Automation • AI Integrations
 
-🎓 Formado em **Ciência da Computação**
-💼 Especializado em **Desenvolvimento Back-End**
-🚀 Foco em **Python, Laravel, APIs e automação de processos**
+🎓 Formado em **Ciência da Computação**  
+💼 Especializado em **Desenvolvimento Back-End**  
+🚀 Foco em **Python**, **Laravel**, **APIs**, **automação e integrações com IA**
 
-🔗 **Portfólio**
+🔗 **Portfólio**  
 [https://victorrossano-dev.netlify.app/](https://victorrossano-dev.netlify.app/)
 
 ---
@@ -16,7 +22,7 @@ Backend Developer | Python • Laravel • APIs • Automation • AI Integratio
 * 🤔 Explorando constantemente novas tecnologias e arquiteturas de software
 * 💼 Experiência no desenvolvimento de APIs, sistemas web e integrações
 * ⚙️ Desenvolvimento de automações para produtividade e fluxos operacionais
-* 🧠 Interesse crescente em Inteligência Artificial e integrações com LLMs
+* 🧠 Explorando aplicações de IA Generativa, automação inteligente e integrações com LLMs
 * 📚 Atualmente aprofundando conhecimentos em automações com Python, APIs e integrações com IA
 * ⚡ Focado em escrever código limpo, performático e escalável
 
@@ -28,51 +34,58 @@ Alguns projetos que desenvolvi focados em backend, automação e soluções prá
 
 ---
 
-### ⚽ BetAnalytics — Plataforma de Dados do Brasileirão
+## ⚽ BetAnalytics — Plataforma de Dados do Brasileirão
 
-Plataforma desenvolvida para análise estatística do Brasileirão Série A, utilizando automação, processamento de dados e dashboards interativos para acompanhamento de métricas esportivas.
+Plataforma desenvolvida para análise estatística do Brasileirão Série A, utilizando automação, processamento de dados, integrações e dashboards interativos para análise estatística esportiva.
 
-🔧 Tecnologias utilizadas:
+🔧 Tecnologias utilizadas:  
 React • TypeScript • Supabase • PostgreSQL • APIs • n8n
 
-🔗 Saiba mais:
+🔗 Saiba mais:  
 [https://analyticsbrasileirao.lovable.app/](https://analyticsbrasileirao.lovable.app/)
 
 ---
 
-### 🏥 Sistema de Gestão de Atestados
+## 🏥 Sistema de Gestão de Atestados
 
-Sistema desenvolvido para gerenciamento e controle de atestados médicos, permitindo organizar registros, acompanhar histórico e facilitar a administração dessas informações dentro de um ambiente digital.
+Sistema web desenvolvido em Laravel para gerenciamento de atestados médicos, controle de registros, fluxo de aprovação, upload de documentos e análise operacional de absenteísmo.
 
-🔧 Tecnologias utilizadas:
-Laravel • MySQL
+🔧 Tecnologias utilizadas:  
+Laravel • MySQL • Bootstrap • Laravel Sanctum
 
-🔗 Saiba mais:
+🔗 Saiba mais:  
 [https://victorrossano-dev.netlify.app/projects/gestao-atestados](https://victorrossano-dev.netlify.app/projects/gestao-atestados)
 
 ---
 
-### 📊 Agilead — CNAEs e Estabelecimentos
+## 📊 Agilead — Plataforma de Leads e Estabelecimentos
 
-Ferramenta voltada para consulta e organização de dados empresariais, permitindo trabalhar com informações de CNAEs e estabelecimentos, facilitando análise de mercado e geração de leads.
+Dashboard desenvolvido para consulta e organização de dados empresariais, permitindo filtragem dinâmica de CNAEs, estados e municípios durante o onboarding do usuário.
 
-🔧 Tecnologias utilizadas:
-Laravel • MySQL • APIs • API REST
+A plataforma integra dados da Receita Federal para geração e organização de leads, oferecendo buscas, paginação, filtros avançados e visualização estruturada de estabelecimentos.
 
-🔗 Saiba mais:
+🔧 Tecnologias utilizadas:  
+Laravel • MySQL • Bootstrap • jQuery • APIs REST
+
+🔗 Plataforma:  
+[Agilead Plataforma](https://rdmti.com.br/agilead/login)
+
+🔗 Saiba mais:  
 [https://victorrossano-dev.netlify.app/projects/agilead-cnaes-estabelecimentos](https://victorrossano-dev.netlify.app/projects/agilead-cnaes-estabelecimentos)
 
 ---
 
-### 🕵️ Ferramenta de Web Scraping
+## 🏀 NBA Data Scraping Pipeline
 
-Aplicação desenvolvida para coleta automatizada de dados na web, permitindo extrair, processar e organizar informações de forma automatizada para análise ou geração de dados estruturados.
+Pipeline de coleta e processamento de dados esportivos desenvolvido em Python para extração automatizada, processamento e consolidação de estatísticas da NBA.
 
-🔧 Tecnologias utilizadas:
-Python • Selenium • APIs • PostgreSQL
+O sistema realiza scraping automatizado, processamento de informações e geração de planilhas Excel consolidadas para análise esportiva.
 
-🔗 Saiba mais:
-[https://victorrossano-dev.netlify.app/projects/web-scraping](https://victorrossano-dev.netlify.app/projects/web-scraping)
+🔧 Tecnologias utilizadas:  
+Python • Selenium • OpenPyXL • Pandas • Web Scraping
+
+🔗 Saiba mais:  
+[https://github.com/VictorRossan0/nba-data-scraping-pipeline](https://github.com/VictorRossan0/nba-data-scraping-pipeline)
 
 ---
 
@@ -84,8 +97,12 @@ Python • Selenium • APIs • PostgreSQL
 * Laravel
 * PHP
 * JavaScript
+* TypeScript
 * React
 * Flask
+* Selenium
+* Pandas
+* OpenPyXL
 * MySQL
 * PostgreSQL
 * MongoDB
@@ -99,7 +116,7 @@ Python • Selenium • APIs • PostgreSQL
 
 Explorando ferramentas modernas para automação de processos, integrações entre serviços e desenvolvimento assistido por IA.
 
-### Tecnologias e abordagens
+## Tecnologias e abordagens
 
 * 🔗 n8n — automação de processos e integração entre APIs e serviços
 * 🗄️ Supabase — backend moderno baseado em PostgreSQL
@@ -120,22 +137,36 @@ Explorando ferramentas modernas para automação de processos, integrações ent
 * Linux
 * Postman
 * Jira
+* VS Code
 
 ---
 
 # 🌎 Onde me encontrar
 
-💼 LinkedIn
+## 💼 LinkedIn
+
 [https://www.linkedin.com/in/victor-rossano-009b4556/](https://www.linkedin.com/in/victor-rossano-009b4556/)
 
-🌐 Portfólio
+---
+
+## 🌐 Portfólio
+
 [https://victorrossano-dev.netlify.app](https://victorrossano-dev.netlify.app)
 
-📧 Email
+---
+
+## 📧 Email
+
 [victorrca2010@gmail.com](mailto:victorrca2010@gmail.com)
 
-📱 WhatsApp
+---
+
+## 📱 WhatsApp
+
 [https://wa.me/5519997393936](https://wa.me/5519997393936)
 
-🐙 GitHub
+---
+
+## 🐙 GitHub
+
 [https://github.com/VictorRossan0](https://github.com/VictorRossan0)
